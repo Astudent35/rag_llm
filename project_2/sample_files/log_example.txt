@@ -1,0 +1,10 @@
+2023-03-15 10:00:00 INFO Starting the data loading process.
+2023-03-15 10:00:05 INFO Connecting to MongoDB.
+2023-03-15 10:00:10 INFO Successfully connected to MongoDB.
+2023-03-15 10:00:15 INFO Loading documents from directory.
+2023-03-15 10:00:20 INFO Successfully loaded documents.
+2023-03-15 10:00:25 INFO Generating embeddings for documents.
+2023-03-15 10:00:30 INFO Successfully generated embeddings.
+2023-03-15 10:00:35 INFO Storing embeddings in MongoDB Atlas Vector Search.
+2023-03-15 10:00:40 INFO Successfully stored embeddings in MongoDB Atlas Vector Search.
+2023-03-15 10:00:45 INFO Data loading process completed.
